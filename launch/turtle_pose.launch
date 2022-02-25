@@ -5,7 +5,7 @@
     <param name="baud" value="115200" />
   </node>
 
-  <node pkg="set_vel" type="set_vel2_1.py" name="set_vel_keyboard"  output="screen">
+  <node pkg="set_vel" type="set_vel2_2.py" name="set_vel_keyboard"  output="screen">
   <!-- <node pkg="turtlebot3_teleop" type="turtlebot3_teleop_key" name="turtlebot3_teleop_keyboard"  output="screen"> -->
   </node>
 
